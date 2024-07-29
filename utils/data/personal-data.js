@@ -6,12 +6,12 @@ export const personalData = {
   email: 'yogeshmarketingexpert.com',
   phone: '+91 8357009557',
   address: 'Gwalior, Madhya Pradesh',
-  github: 'https://www.instagram.com/yogeshsen854?igsh=anlhb2oydmRrcnkz',
-  facebook: 'https://www.facebook.com/profile.php?id=61550972594294&mibextid=JRoKGi',
+  github: 'https://www.instagram.com/yogeshmarketingexpert_',
+  facebook: 'https://www.facebook.com/profile.php?id=61563139690732&mibextid=ZbWKwL',
   linkedIn: 'https://www.linkedin.com/in/yogesh-sen-2a0b1221a',
-  twitter: '#',
-  stackOverflow: '#',
-  leetcode: "#",
+  twitter: 'https://x.com/yogeshsen854',
+  stackOverflow: 'https://wa.me/message/B7YS43NBCTJFD1',
+  leetcode: "https://wa.me/message/B7YS43NBCTJFD1",
   devUsername: "yogesh",
   resume: "#"
 }

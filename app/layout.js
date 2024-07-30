@@ -9,8 +9,8 @@ import './css/globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: ' YOGESH MARKETING EXPERT',
-  description: 'Yogesh Marketing Expert and a seasoned expert in the world of marketing. With a wealth of experience and a passion for driving results. Known for his strategic thinking and creative flair.',
+  title: ' Yogesh Marketig Expert',
+  description: 'Yogesh Marketing Expert and a seasoned expert in the world of marketing. With a wealth of experience and a passion for driving results. Known for his strategic thinking and creative flair and  Known for his strategic thinking and creative flair, Yogesh is committed to helping businesses elevate their brand, engage their audience, and achieve their goals.',
 };
 
 export default function RootLayout({ children }) {
